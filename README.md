@@ -25,4 +25,4 @@ https://app.powerbi.com/groups/me/reports/9679493e-7c0d-4a62-8ee3-6cfb00fe5fe0/R
  </figure>
 
 
- [Sales BI with the M5/Walmart dataset and a State-of-the-Art Data Intelligence Architecture](https://aljgutier.github.io/posts/AIBI%20Analytics/20220205_salesbi_and_architecture/) - The article describes the process of creating a BI reporting dashboard within a state-of-the-art data intelligence system. For demonstration purposes a BI reporting dashboard is developed using the M5 Walmart sales dataset
+ [Sales BI with the M5/Walmart dataset and a State-of-the-Art Data Intelligence Architecture](https://aljgutier.github.io/posts/AIBI%20Analytics/20220205_salesbi_and_architecture/) - The article describes the process of creating a BI reporting dashboard within a state-of-the-art data intelligence system. For demonstration purposes the process and real implimentation of a BI reporting dashboard on the M5 Walmart sales dataset is documented.
