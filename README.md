@@ -5,8 +5,8 @@
   - [EDA and BI Transforms Notebook](#eda-and-bi-transforms-notebook)
   - [International Sales BI Dashboard](#international-sales-bi-dashboard)
 - [Sales BI with M5 (Walmart) Dataset](#sales-bi-with-m5-walmart-dataset)
-  - [Power BI BI Sales Dashboard based on M5 Dataset](#power-bi-bi-sales-dashboard-based-on-m5-dataset)
-  - [Blog Article - Sales BI Dashboard and Data Intelligence Architecture](#blog-article---sales-bi-dashboard-and-data-intelligence-architecture)
+  - [Power BI Sales Dashboard](#power-bi-sales-dashboard)
+  - [Sales BI Dashboard and Data Intelligence Architecture - Blog Article](#sales-bi-dashboard-and-data-intelligence-architecture---blog-article)
 - [References](#references)
 
 
@@ -28,7 +28,7 @@ Load, explore, and transform the UCI online sales dataset - preperation and tran
 
 [M5 EDA and BI transforms Notebook](https://github.com/Aljgutier/sales_analytics/blob/main/m5_eda_bi.ipynb). Load, explore, transform the M5 Walmart dataset. The data is transformed into several data files similar to a "Star Schema" suitable for an analytics data warehouse and Power BI data model.
 
-## Power BI BI Sales Dashboard based on M5 Dataset
+## Power BI Sales Dashboard
 
 <figure>
  <img alt="SalesBI-M5-PowerBI.png" title="Power BI Sales Dashboard - M5/Walmart Dataset" src="./SalesBI-M5-PowerBI.png" width="635">
@@ -38,7 +38,7 @@ Load, explore, and transform the UCI online sales dataset - preperation and tran
  [Power BI Sales Dashboard](https://app.powerbi.com/groups/me/reports/9679493e-7c0d-4a62-8ee3-6cfb00fe5fe0/ReportSection)
 
 
- ## Blog Article - Sales BI Dashboard and Data Intelligence Architecture
+ ## Sales BI Dashboard and Data Intelligence Architecture - Blog Article
  [Sales BI and Data Intelligence Architecture with the M5/Walmart dataset](https://aljgutier.github.io/posts/AIBI%20Analytics/20220205_salesbi_and_architecture/) 
  The article describes the process of creating a BI reporting within a state-of-the-art data intelligence system. For demonstration purposes the process and real implimentation of a BI reporting dashboard on the M5 Walmart sales dataset is documented.
 
